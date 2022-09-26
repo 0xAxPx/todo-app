@@ -1,0 +1,8 @@
+#"id", "text", "completed"
+"Test", test, true
+,MAX_STRING,true
+,MAX_LONG,true
+,MAX_DOUBLE,true
+,MIN_LONG,true
+,MIN_DOUBLE,true
+,BOOLEAN_VALUE,true

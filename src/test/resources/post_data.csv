@@ -1,0 +1,13 @@
+#"id", "text", "completed"
+,"Test",true
+,"Test",false
+,'a',false
+,),false
+,"",true
+,345,true
+,""345\%)$,false
+,//\%)$"[]",false
+,qwertyuiopp[]';lkjhgfdsazxcvbnm,./=-0987654321`/.,mnbvcxz';lkjhgfdsa][\poiuytrewq1-0987654321,true
+,Competed with TruE,TruE
+,"Completed with F",F
+,"Completed with empty string",""
